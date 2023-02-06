@@ -1,0 +1,40 @@
+body {
+    margin: 100px;
+    padding: 0;
+    background: linear-gradient(
+        100deg,
+        rgb(189, 187, 184),
+        #4e4e4e
+    );
+    height: 200vh;
+    
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+    
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+    
+  }
+
+  .btn-info {
+    color: rgb(255, 255, 255);
+    background-color: #ff5100;
+    border-color: #ff5100;
+  }
+
+  .btn-info:hover{
+    background-color: #ffffff;
+    color: #4e4e4e;
+    border-color: #ff5100;
+  }
+  
+
